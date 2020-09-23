@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26c74f0f-0f5b-40c3-b798-c8e651146a47" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../xiaoduo-chatbot-api.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../xiaoduo-chatbot-api.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="26c74f0f-0f5b-40c3-b798-c8e651146a47" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,38 +108,38 @@
       <screen x="0" y="23" width="1536" height="884" />
     </state>
     <state x="565" y="175" key="#xdebugger.evaluate/0.23.1536.884@0.23.1536.884" timestamp="1600865156973" />
-    <state width="1494" height="288" key="GridCell.Tab.0.bottom" timestamp="1600866073757">
+    <state width="1494" height="288" key="GridCell.Tab.0.bottom" timestamp="1600866471044">
       <screen x="0" y="23" width="1536" height="884" />
     </state>
-    <state width="1494" height="288" key="GridCell.Tab.0.bottom/0.23.1536.884@0.23.1536.884" timestamp="1600866073757" />
-    <state width="1494" height="288" key="GridCell.Tab.0.center" timestamp="1600866073757">
+    <state width="1494" height="288" key="GridCell.Tab.0.bottom/0.23.1536.884@0.23.1536.884" timestamp="1600866471044" />
+    <state width="1494" height="288" key="GridCell.Tab.0.center" timestamp="1600866471044">
       <screen x="0" y="23" width="1536" height="884" />
     </state>
-    <state width="1494" height="288" key="GridCell.Tab.0.center/0.23.1536.884@0.23.1536.884" timestamp="1600866073757" />
-    <state width="1494" height="288" key="GridCell.Tab.0.left" timestamp="1600866073756">
+    <state width="1494" height="288" key="GridCell.Tab.0.center/0.23.1536.884@0.23.1536.884" timestamp="1600866471044" />
+    <state width="1494" height="288" key="GridCell.Tab.0.left" timestamp="1600866471043">
       <screen x="0" y="23" width="1536" height="884" />
     </state>
-    <state width="1494" height="288" key="GridCell.Tab.0.left/0.23.1536.884@0.23.1536.884" timestamp="1600866073756" />
-    <state width="1494" height="288" key="GridCell.Tab.0.right" timestamp="1600866073757">
+    <state width="1494" height="288" key="GridCell.Tab.0.left/0.23.1536.884@0.23.1536.884" timestamp="1600866471043" />
+    <state width="1494" height="288" key="GridCell.Tab.0.right" timestamp="1600866471044">
       <screen x="0" y="23" width="1536" height="884" />
     </state>
-    <state width="1494" height="288" key="GridCell.Tab.0.right/0.23.1536.884@0.23.1536.884" timestamp="1600866073757" />
-    <state width="1494" height="288" key="GridCell.Tab.1.bottom" timestamp="1600866070165">
+    <state width="1494" height="288" key="GridCell.Tab.0.right/0.23.1536.884@0.23.1536.884" timestamp="1600866471044" />
+    <state width="1494" height="288" key="GridCell.Tab.1.bottom" timestamp="1600866471045">
       <screen x="0" y="23" width="1536" height="884" />
     </state>
-    <state width="1494" height="288" key="GridCell.Tab.1.bottom/0.23.1536.884@0.23.1536.884" timestamp="1600866070165" />
-    <state width="1494" height="288" key="GridCell.Tab.1.center" timestamp="1600866070165">
+    <state width="1494" height="288" key="GridCell.Tab.1.bottom/0.23.1536.884@0.23.1536.884" timestamp="1600866471045" />
+    <state width="1494" height="288" key="GridCell.Tab.1.center" timestamp="1600866471045">
       <screen x="0" y="23" width="1536" height="884" />
     </state>
-    <state width="1494" height="288" key="GridCell.Tab.1.center/0.23.1536.884@0.23.1536.884" timestamp="1600866070165" />
-    <state width="1494" height="288" key="GridCell.Tab.1.left" timestamp="1600866070165">
+    <state width="1494" height="288" key="GridCell.Tab.1.center/0.23.1536.884@0.23.1536.884" timestamp="1600866471045" />
+    <state width="1494" height="288" key="GridCell.Tab.1.left" timestamp="1600866471045">
       <screen x="0" y="23" width="1536" height="884" />
     </state>
-    <state width="1494" height="288" key="GridCell.Tab.1.left/0.23.1536.884@0.23.1536.884" timestamp="1600866070165" />
-    <state width="1494" height="288" key="GridCell.Tab.1.right" timestamp="1600866070165">
+    <state width="1494" height="288" key="GridCell.Tab.1.left/0.23.1536.884@0.23.1536.884" timestamp="1600866471045" />
+    <state width="1494" height="288" key="GridCell.Tab.1.right" timestamp="1600866471045">
       <screen x="0" y="23" width="1536" height="884" />
     </state>
-    <state width="1494" height="288" key="GridCell.Tab.1.right/0.23.1536.884@0.23.1536.884" timestamp="1600866070165" />
+    <state width="1494" height="288" key="GridCell.Tab.1.right/0.23.1536.884@0.23.1536.884" timestamp="1600866471045" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
